@@ -1,5 +1,5 @@
-Country:
-1.Bangladesh
-2.Nepal
-3.Chaina
-4.America
+Country    ->Capital
+1.Bangladesh->Dhaka
+2.Nepal->Kathmandu
+3.Chaina->Beijing
+4.America->Washington D.C
